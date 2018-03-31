@@ -2,11 +2,11 @@
 
 ## Synopsis
 
-A easy to use C++ high resolution timer using chrono, all in one header file.
+An easy to use C++ high resolution timer using chrono, all in one header file.
 
 ## Usage
 
-Simply include the headerfile "timer.h" in you project.
+Simply include the headerfile "timer.h" in your project.
 
 ## Example
 
